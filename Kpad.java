@@ -16,18 +16,7 @@
 
 
 
- /**
- *@Programmed by Khurram Shahzad.
- *@Bahria University MCS-1 Project for OOPS.
- *@Instructor Mr Ghulam Nabi.
- *@Relese 1.2.0.
- *copy right@2001
- *developed using TextPad
- *********************************************************************
- *This text editor named Kpad will be developed in stages            *
- *the first stage will be a simple text editor with resemblance      *
- *of MS Notepad. It will be then enhanced in next version for        *
- *advanced facilities like TextPad **********************************/
+
 
 
 
